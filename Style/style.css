@@ -244,3 +244,37 @@ text-align:center;
     margin-bottom: 43px;  
 }
 /* NEW BEST OFFER Section End */
+
+/* Holidays Sale Section Start */
+.Holidays-Sale{
+    text-align: center;
+    width: 1068px;
+    margin: 0 auto; 
+    margin-bottom: 64px;   
+}
+.Holidays-Sale h4{
+    color: #070211;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.Holidays-Sale h1{
+    color: #070211;
+    font-size: 72px;
+    font-weight: 900; 
+    margin-top: 16px;
+    margin-bottom: 28px;
+}
+.Holidays-Sale h1 span{
+    color: #F00;
+    font-size: 72px;
+    font-weight: 900;    
+}
+.Holidays-Sale p{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;  
+}
+/* Holidays Sale Section End */
