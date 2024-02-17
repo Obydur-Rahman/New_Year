@@ -40,3 +40,45 @@
     line-height: 95px;
 }
 /* banner section style end */
+
+
+
+/* HOLIDAY DEALS Section start */
+
+.holiday-deal{
+    width: 1600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 120px;
+
+}
+
+.deal-title{
+    color: #F00;
+    font-size: 88px;
+    font-weight: 700;
+}
+
+.deal-sub-title{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 48px;
+    margin-bottom: 16px;
+}
+
+
+.categories{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 48px;
+}
+.deal-img{
+    width: 802.9px;
+    height: 500px;
+}
+/* HOLIDAY DEALS Section End */
