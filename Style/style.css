@@ -389,3 +389,65 @@ text-align:center;
     padding: 23px 56px 23px 56px;      
 }
 /* Subscribe Section End */
+
+
+
+
+
+/* footer Section Start */
+footer{
+    height: 609px;
+    background: #070211;    
+}
+
+.contacts{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 120px;
+}
+.contact-item{
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;  
+}
+.contact-item h4{
+    display: flex;
+    gap: 16px;
+    align-items: center;
+}
+.contact-item h4 img{
+    width: 24px;
+    height: 24px;    
+}
+.social{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+.copyright{
+    display: flex;
+    justify-content: space-around;
+}
+
+.copyright-item{
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+
+footer hr{
+    width: 1320px;
+    height: 1px;
+    background: rgba(255, 255, 255, 0.15);
+    margin: 0% auto; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;  
+    margin-bottom: 50px; 
+    border: 0px;
+}
+/* footer Section End */
