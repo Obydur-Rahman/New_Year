@@ -278,3 +278,53 @@ text-align:center;
     line-height: 32px;  
 }
 /* Holidays Sale Section End */
+
+
+
+
+/* Holidays Sale banner Section Start */
+/* Holidays Sale Banner Section End */
+
+
+/* Our Awesome Portfolio Section Start */
+.Our-Portfolio{
+    text-align: left;
+    width: 1320px;
+    margin: 0% auto; 
+}
+.Our-Portfolio h4{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;  
+}
+.Our-Portfolio h1{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    margin-top: 16px;
+    margin-bottom: 22px;
+}
+
+.Our-Portfolio p{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    margin-bottom: 48px;  
+}
+
+.Portfolio-items{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 24px;    
+}
+
+.portfolio-img{
+    width: 424px;
+    height: 450px;
+    border-radius: 16px;  
+}
+
+/* Our Awesome Portfolio Section End  */
