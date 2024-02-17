@@ -144,3 +144,103 @@
 }
 
 /* midnight party Section end */
+
+
+
+
+
+/* detail section start */
+.detail{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1320px;
+    height: 482px;
+    margin: 0 auto;
+    background:linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    border-radius: 16px; 
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+.details{
+text-align:center;
+}
+.details-btn{
+    margin-top: 48px;
+}
+.detail-title{
+    color: #070211;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;    
+}
+.detail-title span{
+    color: #F00;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;    
+}
+
+/* detail section End */
+
+
+/* NEW BEST OFFER Section Start */
+.NEW-BEST-OFFER{
+    width: 1320px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 120px;
+    margin-bottom: 120px;
+
+}
+.offers{
+    width: 393px;
+}
+.offers-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 463px;
+    height: 463px;
+    border-radius: 463px;
+    border: 15px solid #F00;    
+}
+.offers-date{
+    width: 276px;
+}
+.offers h4{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;   
+}
+.offers h2{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    margin-top: 16px; 
+    margin-bottom: 22px;   
+}
+.offers p{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;   
+}
+.offers-date h2{
+    color: #F00;
+    font-size: 48px;
+    font-weight: 700;
+}
+.offers-date p{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    margin-top: 16px; 
+    margin-bottom: 43px;  
+}
+/* NEW BEST OFFER Section End */
